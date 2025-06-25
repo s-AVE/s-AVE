@@ -44,4 +44,3 @@
   </a>
 </p>
 
-<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=s-ave&" alt="s-ave" /></p>
