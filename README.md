@@ -11,7 +11,7 @@
   - Power BI Dashboard Development
   - Data Analysis and Monitoring & Evaluation (M&E) Projects
 
-- 👨‍💻 All of my portfolio are available at [Andrian's Portfolio]([https://drive.google.com/file/d/1LAsUENFnXO7-bxZGZqAyAb4HX4vlK8W_/view?usp=drive_link](https://drive.google.com/file/d/1Hs9qWGgGMpgBDgwi8dj3GM9FdVf6TdaN/view?usp=drive_link))
+- 👨‍💻 All of my portfolio are available at [Andrian's Portfolio](https://drive.google.com/file/d/1Hs9qWGgGMpgBDgwi8dj3GM9FdVf6TdaN/view?usp=sharing)
 
 - 💬 Ask me about **Data** and **Monitoring and Evaluation**
 
