@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Data Project related to:
   - Data Analysis and Visualization
-  - Database Management (Microsoft SQL Server, PostgreSQL)
+  - Database Management (Microsoft SQL Server, PostgreSQL, and MySQL)
   - Power BI Dashboard Development
   - Data Analysis and Monitoring & Evaluation (M&E) Projects
 
