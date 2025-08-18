@@ -43,7 +43,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://lookerstudio.google.com/overview/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:Looker.svg#/media/File:Looker.svg" alt="lookerstudio" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="lookerstudio" width="40" height="40"/>
   </a>
 </p>
 
