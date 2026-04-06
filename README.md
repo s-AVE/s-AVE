@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Data Project related to:
   - Data Analysis and Visualization
   - Database Management (Microsoft SQL Server, PostgreSQL, and MySQL)
-  - Power BI Dashboard Development
+  - Looker Studio & Power BI Dashboard Development
   - Data Analysis and Monitoring & Evaluation (M&E) Projects
 
 - 👨‍💻 All of my portfolio are available at <a href="https://drive.google.com/file/d/1Hs9qWGgGMpgBDgwi8dj3GM9FdVf6TdaN/view?usp=sharing" target="_blank"> [Andrian's Portfolio]</a> 
