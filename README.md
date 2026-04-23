@@ -1,51 +1,68 @@
-<h1 align="center">Hi 👋, I'm Andrian Wijaya</h1>
-<h3 align="center">A Passionate Data Analyst A Curious Data Analyst & Digital Business Enthusiast. </h3>
+<!-- Header -->
+<div align="center">
 
-<p align="justify">I am passionate about transforming data into strategic insights to support smarter decisions. With experience in monitoring and evaluation, educational projects, and data-driven solutions, I thrive in dynamic environments that value innovation and impact.</p>
+<h1>Hi 👋, I'm Andrian Wijaya</h1>
+<h3>Data Analyst & Digital Business Enthusiast</h3>
 
-- 🌱 I’m currently sharpening my skills in **Power BI** and **SQL**, while continuing to explore new tools in analytics and data storytelling.
+<p>Passionate about transforming raw data into strategic insights that drive smarter decisions.<br/>
+Experienced in monitoring & evaluation, educational projects, and data-driven solutions.</p>
 
-- 👯 I’m looking to collaborate on Data Project related to:
-  - Data Analysis and Visualization
-  - Database Management (Microsoft SQL Server, PostgreSQL, and MySQL)
-  - Looker Studio & Power BI Dashboard Development
-  - Data Analysis and Monitoring & Evaluation (M&E) Projects
+<a href="https://www.linkedin.com/in/andrianwi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.hackerrank.com/profile/Riezu" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="mailto:andrianwijaya65@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://drive.google.com/file/d/1Hs9qWGgGMpgBDgwi8dj3GM9FdVf6TdaN/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio"/>
+</a>
 
-- 👨‍💻 All of my portfolio are available at <a href="https://drive.google.com/file/d/1Hs9qWGgGMpgBDgwi8dj3GM9FdVf6TdaN/view?usp=sharing" target="_blank"> [Andrian's Portfolio]</a> 
+</div>
 
-- 💬 Ask me about **Data** and **Monitoring and Evaluation**
+---
 
-- 📫 How to reach me **andrianwijaya65@gmail.com**
+## 🙋‍♂️ About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/andrianwi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/andrianwi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/Riezu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andrianwj" height="30" width="40" /></a>
+- 🌱 Currently sharpening my skills in **Power BI** and **SQL**, while exploring new tools in analytics and data storytelling
+- 👯 Open to collaborate on data projects involving:
+  - 📊 Data Analysis & Visualization
+  - 🗄️ Database Management *(Microsoft SQL Server, PostgreSQL, MySQL)*
+  - 📈 Looker Studio & Power BI Dashboard Development
+  - 📋 Monitoring & Evaluation (M&E) Projects
+- 💬 Ask me about **Data Analytics** and **Monitoring & Evaluation**
+- 📫 Reach me at **andrianwijaya65@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-<!--  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> SOON -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://lookerstudio.google.com/overview/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="lookerstudio" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+---
 
+## 🛠️ Languages & Tools
 
+<div align="center">
 
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="45" height="45" title="Microsoft SQL Server"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45" title="Microsoft Excel"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45" title="Power BI"/>&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker Studio" width="45" height="45" title="Looker Studio"/>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45" title="Figma"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andrianwi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianwi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ "Data is not just numbers — it's stories waiting to be told."</sub>
+</div>
