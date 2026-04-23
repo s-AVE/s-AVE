@@ -40,14 +40,34 @@ Experienced in monitoring & evaluation, educational projects, and data-driven so
 ## 🛠️ Languages & Tools
 
 <div align="center">
-
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="45" height="45" title="Microsoft SQL Server"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" title="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45" title="Microsoft Excel"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45" title="Power BI"/>&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker Studio" width="45" height="45" title="Looker Studio"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45" title="Figma"/>
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server"/>
+      <br/><sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+      <br/><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"/>
+      <br/><sub><b>Excel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI"/>
+      <br/><sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="45" height="45" alt="Looker Studio"/>
+      <br/><sub><b>Looker Studio</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
+      <br/><sub><b>Figma</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -56,8 +76,8 @@ Experienced in monitoring & evaluation, educational projects, and data-driven so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrianwi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianwi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=s-AVE&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-AVE&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
