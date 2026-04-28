@@ -84,5 +84,5 @@ Experienced in monitoring & evaluation, educational projects, and data-driven so
 ---
 
 <div align="center">
-<sub>⚡ "Data is not just numbers — it's stories waiting to be told."</sub>
+<sub>⚡ "Data is not just numbers, it's stories waiting to be told."</sub>
 </div>
