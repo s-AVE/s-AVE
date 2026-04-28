@@ -13,7 +13,7 @@ Experienced in monitoring & evaluation, educational projects, and data-driven so
 <a href="https://www.hackerrank.com/profile/Riezu" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
-<a href="mailto:andrianwijaya65@gmail.com">
+<a href="mailto:andrianwijaya.kerja@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://drive.google.com/file/d/1Hs9qWGgGMpgBDgwi8dj3GM9FdVf6TdaN/view?usp=sharing" target="_blank">
@@ -33,7 +33,7 @@ Experienced in monitoring & evaluation, educational projects, and data-driven so
   - 📈 Looker Studio & Power BI Dashboard Development
   - 📋 Monitoring & Evaluation (M&E) Projects
 - 💬 Ask me about **Data Analytics** and **Monitoring & Evaluation**
-- 📫 Reach me at **andrianwijaya65@gmail.com**
+- 📫 Reach me at **andrianwijaya.kerja@gmail.com**
 
 ---
 
