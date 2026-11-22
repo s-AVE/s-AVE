@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Andrian Wijaya</h1>
-<h3>Data Analyst · Power BI · SQL · Excel</h3>
+<h3>Data Analyst & Operations · Power BI · SQL · Excel</h3>
 
 <p>Data Analyst with 2+ years of experience turning education and operations data into decisions at national scale.<br/>
 Monitoring &amp; evaluation across 177 institutions, and data systems used across 15 branches.</p>
